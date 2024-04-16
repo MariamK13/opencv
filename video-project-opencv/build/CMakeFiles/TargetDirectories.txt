@@ -1,0 +1,3 @@
+/home/mariam/Desktop/ooad/video-project-opencv/build/CMakeFiles/my_opencv_app.dir
+/home/mariam/Desktop/ooad/video-project-opencv/build/CMakeFiles/edit_cache.dir
+/home/mariam/Desktop/ooad/video-project-opencv/build/CMakeFiles/rebuild_cache.dir
