@@ -1,3 +1,0 @@
-/home/mariam/Desktop/ooad/new-project-opencv/build/CMakeFiles/run_python_script.dir
-/home/mariam/Desktop/ooad/new-project-opencv/build/CMakeFiles/edit_cache.dir
-/home/mariam/Desktop/ooad/new-project-opencv/build/CMakeFiles/rebuild_cache.dir
