@@ -4,15 +4,4 @@
 *.so
 *.dylib
 
-# Ignore files and directories in the cpp and python folders
-cpp/project-opencv-color_spaces/
-cpp/project-opencv-image_annotation/
-cpp/project-opencv-image_manipulation/
-cpp/project-opencv-video/
-python/project-opencv-color_spaces/
-python/project-opencv-image_annotation/
-python/project-opencv-image_manipulation/
-python/project-opencv-video/ 
-
 # Ignore other files or directories as needed
-
